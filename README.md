@@ -36,8 +36,8 @@ Uses a continous weak current injection (12pA) to obtain a holding potential of 
 
 ![screenshot4](./screenshot4.jpg)
 
+## Changelog
+
 20130530 update by Geir to include a missing parameter value in INmodel.hoc. Doesn't change results if used as-is.
 
----
-
-2025-06-20: Converted README to Markdown.
+20250620 Converted README to Markdown.
